@@ -1,0 +1,11 @@
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\bin\Debug\CircularProgressBar.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\bin\Debug\WinFormAnimation.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\obj\Debug\DataAcess.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\DataAcess\obj\Debug\DataAcess.pdb

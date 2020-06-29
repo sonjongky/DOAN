@@ -1,0 +1,12 @@
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\obj\Debug\Domain.pdb
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\bin\Debug\Domain.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\bin\Debug\Domain.pdb
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\bin\Debug\CircularProgressBar.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\bin\Debug\DataAcess.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\bin\Debug\WinFormAnimation.dll
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\bin\Debug\DataAcess.pdb
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\ABC\Desktop\DOAN\DOAN\Domain\obj\Debug\Domain.dll
